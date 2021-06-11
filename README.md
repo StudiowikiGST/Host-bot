@@ -1,4 +1,4 @@
-# Host-bot
+# Bot-Setup
 Discord Bot set up for the people who want to start well to create their bots
 
 All Turtorials can be found on Youtube if you want to know how to set up them
